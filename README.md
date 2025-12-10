@@ -1,4 +1,8 @@
-<h1 align="center">- Welcome to my Profil -</h1>
+<h1 align="center">- Welcome to my Profile -</h1>
+
+###
+
+<p align="left">‎ ‎ ‎</p>
 
 ###
 
@@ -29,6 +33,12 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
@@ -37,26 +47,26 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
 ###
 
-<br clear="both">
+<h2 align="left">📌│Currently working on</h2>
 
-<img src="https://raw.githubusercontent.com/lovetxch/lovetxch/output/snake.svg" alt="Snake animation" />
+###
+
+<h4 align="left">• License Key Generator<br><br>• E-COM Discord bot</h4>
+
+###
+
+<h2 align="left">✏️│Currently Learning</h2>
 
 ###
 
