@@ -62,7 +62,7 @@
 
 ###
 
-<h4 align="left">• License Key Generator<br><br>• E-COM Discord bot</h4>
+<h3 align="left">• License Key Generator<br><br>• E-COM Discord bot</h3>
 
 ###
 
