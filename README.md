@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">I am a tech enthusiast from Saxony-Anhalt, Germany, with a strong passion for learning and exploring new technologies. From an early age, I have been curious about how computer systems work and how ideas can be brought to life through programming and 3D modeling. Innovation and continuous improvement motivate me, and I enjoy working creatively, experimenting, and growing within a team.</h4>
+<h4 align="center">Hey, I am a tech enthusiast from Saxony-Anhalt, Germany, with a strong passion for learning and exploring new technologies. From an early age, I have been curious about how computer systems work and how ideas can be brought to life through programming and 3D modeling. Innovation and continuous improvement motivate me, and I enjoy working creatively, experimenting, and growing within a team.</h4>
 
 ###
 
