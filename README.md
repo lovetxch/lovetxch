@@ -2,14 +2,6 @@
 
 ###
 
-<p align="left">‎ ‎ ‎</p>
-
-###
-
-<h2 align="left">✨│About me</h2>
-
-###
-
 <h4 align="left">I am a tech enthusiast from Saxony-Anhalt, Germany, with a strong passion for learning and exploring new technologies. From an early age, I have been curious about how computer systems work and how ideas can be brought to life through programming and 3D modeling. Innovation and continuous improvement motivate me, and I enjoy working creatively, experimenting, and growing within a team.</h4>
 
 ###
@@ -62,11 +54,23 @@
 
 ###
 
-<h3 align="left">• License Key Generator<br><br>• E-COM Discord bot</h3>
+<h3 align="left">• E-COM Discord bot</h3>
 
 ###
 
 <h2 align="left">✏️│Currently Learning</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
 
 ###
 
