@@ -48,6 +48,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -71,7 +73,6 @@
 
 ###
 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -89,7 +90,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lovetxch&radius=16&theme=github-dark&area=true&order=5&hide_border=false&color=#ffffff&title_color=#ffffff&line=#ffffff" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=lovetxch&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lovetxch&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&color=#ffffff&title_color=#ffffff&line=#ffffff&hide_title=false" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
