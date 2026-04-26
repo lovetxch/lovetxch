@@ -6,17 +6,18 @@
 
 ###
 
-<h2 align="left">💻│Languages</h2>
+<h2 align="left">💻│Currently Learning</h2>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
 ###
 
-<h2 align="left">📚│Libraries and Frameworks</h2>
+<h2 align="left">✏️│Libraries and Frameworks</h2>
 
 ###
 
